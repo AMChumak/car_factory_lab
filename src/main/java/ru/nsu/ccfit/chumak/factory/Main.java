@@ -1,4 +1,4 @@
-package ru.nsu.ccfit.chumak;
+package ru.nsu.ccfit.chumak.factory;
 
 public class Main {
     public static void main(String[] args) {

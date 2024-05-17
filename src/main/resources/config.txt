@@ -1,0 +1,8 @@
+BodyworkStorageVolume=100
+EngineStorageVolume=100
+AccessoryStorageVolume=100
+CarStorageVolume=100
+CountAccessoryProducers=5
+CountWorkers=10
+CountDealers=20
+LogSale=true
